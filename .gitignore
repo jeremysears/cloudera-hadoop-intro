@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 
 cloudera-vm.c/
+lesson-3/data/
 
 __pycache__/
 *.py[cod]
