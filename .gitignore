@@ -2,6 +2,7 @@
 
 cloudera-vm.c/
 data
+.DS_Store
 
 __pycache__/
 *.py[cod]
